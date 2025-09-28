@@ -23,5 +23,5 @@
 - Galaxy Tab A7 (SM-T500)  
 - iPad 3rd Gen 32GB
 
-## 🚲 Other Devices
-- MotoVelo TX8 Pro3
+## Other Devices
+- MacBook? iMac?
