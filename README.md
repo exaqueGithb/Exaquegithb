@@ -14,6 +14,9 @@
 - Xiaomi Note 10 Pro  
 - Galaxy S6  
 - Galaxy S7  
+- Galaxy Note 8
+- Galaxy Z Flip Gen 1
+- LG V30 Thinq
 - iPhone 6
 
 ## 📱 Main Tablet
