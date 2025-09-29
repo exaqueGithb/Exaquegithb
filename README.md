@@ -24,4 +24,7 @@
 - iPad 3rd Gen 32GB
 
 ## Other Devices
-- MacBook? iMac?
+- MacBook Pro 2018,2019
+- iMac Mini 2020
+- **Apple Watch Gen 9 41mm**
+- **AirPods Pro Gen 1**
