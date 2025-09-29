@@ -15,6 +15,8 @@
 - Galaxy S6  
 - Galaxy S7  
 - Galaxy Note 8
+- Galaxy Note 10 Lite
+- Galaxy A90 5G
 - Galaxy Z Flip Gen 1
 - LG V30 Thinq
 - iPhone 6
