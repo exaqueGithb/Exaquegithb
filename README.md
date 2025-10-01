@@ -27,6 +27,8 @@
 ## 📱 Spare Tablets
 - Galaxy Tab A7 (SM-T500)  
 - iPad 3rd Gen 32GB
+- Lenovo LEGION Y700 Gen 1
+- Galaxy Tab Note 10.1
 
 ## Other Devices
 - MacBook Pro 2018,2019
