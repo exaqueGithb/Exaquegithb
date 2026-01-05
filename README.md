@@ -7,8 +7,7 @@
 
 ## 📱 Secondary Phone
 **iPhone 12 Mini**
-
-**Galaxy Z Flip 2 5G**
+- Galaxy Z Flip 2 5G
 
 ## 📱 Spare Phones
 - Galaxy S9+  
