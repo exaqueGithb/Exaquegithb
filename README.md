@@ -7,6 +7,7 @@
 
 ## 📱 Secondary Phone
 **iPhone 12 Mini**
+
 **Galaxy Z Flip 2 5G**
 
 ## 📱 Spare Phones
@@ -34,5 +35,6 @@
 ## Other Devices
 - MacBook Pro 2018,2019
 - iMac Mini 2020
+- Microsoft Surface Pro Gen 4
 - **Apple Watch Gen 9 41mm**
 - **AirPods Pro Gen 1**
