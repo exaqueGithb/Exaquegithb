@@ -36,7 +36,7 @@
 ### 📱 예비 태블릿
 - iPad Air (2세대)  
 - iPad 3세대 (32GB)
-- iPad 2새대 (32GB)  
+- iPad 2세대 (32GB)  
 - Galaxy Tab A7 (SM-T500)  
 - Lenovo Legion Y700 (1세대)  
 - Galaxy Note 10.1  
