@@ -11,7 +11,7 @@
 
 ### 📱 서브 스마트폰
 - iPhone 12 mini  
-- Galaxy Z Flip 2 5G  
+- **Galaxy Z Flip 2 5G**
 
 ### 📱 보유 중인 예비 스마트폰
 - Galaxy S9+  
@@ -41,15 +41,17 @@
 ---
 
 ### 💻 컴퓨팅 디바이스
-- MacBook Pro (2018)  
+- MacBook Pro (2018)
+- **MacBook Air (2017)** 
 - MacBook Pro (2019)  
 - Mac mini (2020)  
-- Microsoft Surface Pro (4세대)  
+- **Microsoft Surface Pro (4세대)**
 
 ---
 
 ### ⌚ 웨어러블 & 오디오
 - **Apple Watch Series 9 (41mm)**  
+- ** Xiaomi Smart Band Gen 10**
 - **AirPods Pro (1세대)**  
 - AirPods (1세대)  
 
