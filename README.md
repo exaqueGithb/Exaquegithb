@@ -14,6 +14,7 @@
 ### 📱 서브 스마트폰
 - iPhone 12 mini  
 - **Galaxy Z Flip 2 5G**
+- **iPhone 8**
 
 ### 📱 보유 중인 예비 스마트폰
 - Galaxy S9+  
