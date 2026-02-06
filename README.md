@@ -90,6 +90,12 @@
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
 
+### 🔓 Mobile Modding
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-000000?style=flat-square&logo=android&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-FCC624?style=flat-square&logo=android&logoColor=black)
+![Fastboot](https://img.shields.io/badge/Fastboot-4285F4?style=flat-square&logo=android&logoColor=white)
+
 ---
 
 > 이론보다 구현,  
