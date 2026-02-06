@@ -96,6 +96,12 @@
 ![ADB](https://img.shields.io/badge/ADB-FCC624?style=flat-square&logo=android&logoColor=black)
 ![Fastboot](https://img.shields.io/badge/Fastboot-4285F4?style=flat-square&logo=android&logoColor=white)
 
+### 🎨 Design & Media
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![VEGAS Pro](https://img.shields.io/badge/VEGAS_Pro-1A1A1A?style=flat-square&logo=sony&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
 ---
 
 > 이론보다 구현,  
