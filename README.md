@@ -21,9 +21,11 @@
 
 **Spare**
 - Galaxy S9+ / S8+ / S7 / S6  
-- Galaxy Note 8 / Note 10 Lite  
+- Galaxy Note 8 / Note 10 Lite / Note 10 Plus 5G  
 - Galaxy A90 5G  
 - Galaxy Z Flip (Gen 1)  
+- Galaxy Z Flip 4 
+- Galaxy Z Flip 5
 - Xiaomi Redmi Note 10 Pro  
 - LG V30 ThinQ  
 - iPhone 6  
