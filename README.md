@@ -3,7 +3,7 @@
 > 개인 프로젝트 위주로 이것저것 만듭니다.  
 > 리포지토리는 대부분 비공개입니다.
 
-- Discord: `@Exaq.ue` / `@ji_0.p`
+- Discord: `@Exaq.ue` / `@ji_1.p`
 - 문의: `WeirdPaper@yahoo.com`
 
 ---
